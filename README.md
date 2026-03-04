@@ -1,5 +1,4 @@
-Netflix Data Exploration Project
-Project Overview
+Netflix Data Exploration Project Overview
 
 In this project, I explored a dataset about movies and TV shows available on Netflix. I used JupyterLab with pandas to load the dataset and examine the information to better understand the types of content on the platform.
 
